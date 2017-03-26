@@ -1,1 +1,1 @@
-# newspaper .md
+# newspaper
